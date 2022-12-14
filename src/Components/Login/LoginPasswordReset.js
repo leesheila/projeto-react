@@ -46,7 +46,7 @@ const LoginPasswordReset = () => {
           type="password"
           name="password"
           {...password}
-        />
+        /> 
         {loading ? (
           <Button disabled>Resetando...</Button>
         ) : (

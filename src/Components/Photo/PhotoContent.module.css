@@ -85,7 +85,7 @@
 
 .attributes li {
   margin-right: 2rem;
-}
+} 
 
 .attributes li::before {
   content: '';

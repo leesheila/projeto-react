@@ -39,7 +39,7 @@ const LoginForm = () => {
       </form>
       <Link className={styles.perdeu} to="/login/perdeu">
         Perdeu a Senha?
-      </Link>
+      </Link> 
       <div className={styles.cadastro}>
         <h2 className={styles.subtitle}>Cadastre-se</h2>
         <p>Ainda não possui conta? Cadastre-se no site.</p>

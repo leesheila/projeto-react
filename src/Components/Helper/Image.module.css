@@ -9,7 +9,7 @@
   opacity: 0;
   transition: 0.2s;
 }
-
+ 
 .skeleton {
   grid-area: 1/1;
   height: 100%;

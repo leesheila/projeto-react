@@ -13,7 +13,7 @@ const useMedia = (media) => {
     return () => {
       window.removeEventListener('resize', changeMatch);
     };
-  }, [media]);
+  }, [media]); 
 
   return match;
 };

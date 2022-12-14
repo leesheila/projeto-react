@@ -35,5 +35,5 @@ const FeedPhotos = ({ page, user, setModalPhoto, setInfinite }) => {
     );
   else return null;
 };
-
+ 
 export default FeedPhotos;

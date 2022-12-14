@@ -9,7 +9,7 @@
   border-radius: 0.4rem;
   transition: 0.1s;
 }
-
+ 
 .delete:focus,
 .delete:hover {
   outline: none;

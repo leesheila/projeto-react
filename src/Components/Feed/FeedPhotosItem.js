@@ -12,6 +12,6 @@ const FeedPhotosItem = ({ photo, setModalPhoto }) => {
       <span className={styles.visualizacao}>{photo.acessos}</span>
     </li>
   );
-};
+}; 
 
 export default FeedPhotosItem;

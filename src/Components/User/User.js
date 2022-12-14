@@ -20,7 +20,7 @@ const User = () => {
         <Route path="postar" element={<UserPhotoPost />} />
         <Route path="estatisticas" element={<UserStats />} />
         <Route path="*" element={<NotFound />} />
-      </Routes>
+      </Routes> 
     </section>
   );
 };

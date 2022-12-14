@@ -23,7 +23,7 @@
   }
   .login::before {
     display: none;
-  }
+  } 
   .forms {
     max-width: 100%;
   }

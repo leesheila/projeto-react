@@ -20,5 +20,5 @@ const Input = ({ label, type, name, value, onChange, error, onBlur }) => {
     </div>
   );
 };
-
+ 
 export default Input;

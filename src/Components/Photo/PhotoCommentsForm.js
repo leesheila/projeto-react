@@ -23,7 +23,7 @@ const PhotoCommentsForm = ({ id, setComments, single }) => {
     <form
       className={`${styles.form} ${single ? styles.single : ''}`}
       onSubmit={handleSubmit}
-    >
+    > 
       <textarea
         className={styles.textarea}
         id="comment"

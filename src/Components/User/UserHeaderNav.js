@@ -42,7 +42,7 @@ const UserHeaderNav = () => {
         <NavLink to="/conta/estatisticas">
           <Estatisticas />
           {mobile && 'Estatísticas'}
-        </NavLink>
+        </NavLink> 
         <NavLink to="/conta/postar">
           <AdicionarFoto />
           {mobile && 'Adicionar Foto'}

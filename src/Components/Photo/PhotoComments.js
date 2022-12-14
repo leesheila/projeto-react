@@ -23,7 +23,7 @@ const PhotoComments = (props) => {
             <b>{comment.comment_author}: </b>
             <span>{comment.comment_content}</span>
           </li>
-        ))}
+        ))} 
       </ul>
       {login && (
         <PhotoCommentsForm

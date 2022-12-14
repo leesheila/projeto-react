@@ -31,7 +31,7 @@
   grid-area: 1/1;
   display: none;
 }
-
+ 
 .visualizacao::before {
   width: 16px;
   height: 10px;

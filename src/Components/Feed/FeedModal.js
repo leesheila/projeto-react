@@ -26,5 +26,5 @@ const FeedModal = ({ photo, setModalPhoto }) => {
     </div>
   );
 };
-
+ 
 export default FeedModal;
