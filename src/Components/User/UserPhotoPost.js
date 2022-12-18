@@ -8,7 +8,7 @@ import Error from '../Helper/Error';
 import { PHOTO_POST } from '../../Api';
 import { useNavigate } from 'react-router-dom';
 import Head from '../Helper/Head';
-
+ 
 const UserPhotoPost = () => {
   const nome = useForm();
   const peso = useForm('number');

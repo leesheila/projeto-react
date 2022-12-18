@@ -11,7 +11,7 @@ export function TOKEN_POST(body) {
       body: JSON.stringify(body),
     },
   };
-} 
+}  
 
 export function TOKEN_VALIDATE_POST(token) {
   return {
